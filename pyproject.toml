@@ -18,6 +18,7 @@ black = "^24.10.0"
 orjson = "^3.10.11"
 flake8 = "^7.1.1"
 isort = "^5.13.2"
+fastapi-users = {extras = ["sqlalchemy"], version = "^14.0.0"}
 
 
 [build-system]
